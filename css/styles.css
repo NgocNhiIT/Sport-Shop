@@ -3,8 +3,8 @@ body, html {
     width: 100%;
   }
 nav.navbar.navbar-default {
-    background: #b5fde1;
-    border: none;
+
+    background-image: linear-gradient(to right, rgba(243, 178, 213, 0), rgb(54, 54, 209),rgb(160, 217, 243));    border: none;
     padding-top: 10px;
     padding-bottom: 10px;
 }
